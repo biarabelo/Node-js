@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Meu primeiro aplicativo web com NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biarabelo/Node-js.git"
+  },
+  "author": "Beatriz Rabêlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biarabelo/Node-js/issues"
+  },
+  "homepage": "https://github.com/biarabelo/Node-js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
